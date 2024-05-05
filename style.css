@@ -1,0 +1,79 @@
+.main-div{
+	
+	
+	width: 800px;
+	min-height: 900px;
+
+
+}
+div h1{
+	
+	text-align: center;
+    color: red;
+    background-color: #ddd;
+    width: 800px;
+    height: 60px;
+    align-items: center;
+    align-content: center;
+    
+    margin-bottom: 50px;
+    border-radius: 10px;
+
+}
+.header{
+
+	background-color: red;
+	width: 800px;
+	height: 100px;
+	text-align: center;
+	font-size: 30px;
+	align-items: center;
+	align-content: center;
+
+}
+.wrapper{
+	overflow: hidden;
+
+
+}
+.left-div{
+	width: 70%;
+	background-color: pink;
+	height: 600px;
+	float: left;
+	align-content: center;
+	color: black;
+	text-align: center;
+	font-size: 50px;
+
+
+}
+.right-div{
+		width: 30%;
+	background-color: lightblue;
+	height: 600px;
+	float: right;
+	align-content: center;
+	color: black;
+	text-align: center;
+	font-size: 30px;
+
+
+}
+.footer{
+		width: 100%;
+	background-color: black;
+	height: 100px;
+	
+	align-content: center;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+
+
+
+
+}
+
+
+
